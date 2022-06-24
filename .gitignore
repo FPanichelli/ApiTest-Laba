@@ -1,3 +1,4 @@
 .idea
 src/main/resources/_config.properties
 src/main/resources/_testdata.properties
+target/
